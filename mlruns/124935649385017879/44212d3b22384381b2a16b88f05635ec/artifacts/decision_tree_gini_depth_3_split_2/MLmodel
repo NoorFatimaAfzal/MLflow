@@ -1,0 +1,20 @@
+artifact_path: decision_tree_gini_depth_3_split_2
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.17.2
+model_size_bytes: 1928
+model_uuid: 74fba1ca5c6a44c3abf428462df245bb
+run_id: 44212d3b22384381b2a16b88f05635ec
+utc_time_created: '2024-11-17 11:55:20.470311'

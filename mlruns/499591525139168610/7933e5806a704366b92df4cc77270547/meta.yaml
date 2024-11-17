@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/InfoBay/Desktop/MLflow/mlruns/499591525139168610/7933e5806a704366b92df4cc77270547/artifacts
+end_time: 1731844942007
+entry_point_name: ''
+experiment_id: '499591525139168610'
+lifecycle_stage: active
+run_id: 7933e5806a704366b92df4cc77270547
+run_name: bold-hawk-976
+run_uuid: 7933e5806a704366b92df4cc77270547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731844932743
+status: 3
+tags: []
+user_id: InfoBay

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/InfoBay/Desktop/MLflow/mlruns/272917730626509101/313510ea95fa41d9ac6f4c6e3d12a63b/artifacts
+end_time: 1731845001957
+entry_point_name: ''
+experiment_id: '272917730626509101'
+lifecycle_stage: active
+run_id: 313510ea95fa41d9ac6f4c6e3d12a63b
+run_name: rumbling-frog-345
+run_uuid: 313510ea95fa41d9ac6f4c6e3d12a63b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731844992895
+status: 3
+tags: []
+user_id: InfoBay

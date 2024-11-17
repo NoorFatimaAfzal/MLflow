@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/InfoBay/Desktop/MLflow/mlruns/626301404900900128/5ffb7637462f4ecea696220a2fe378a3/artifacts
+end_time: 1731844787423
+entry_point_name: ''
+experiment_id: '626301404900900128'
+lifecycle_stage: active
+run_id: 5ffb7637462f4ecea696220a2fe378a3
+run_name: chill-goose-697
+run_uuid: 5ffb7637462f4ecea696220a2fe378a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731844780196
+status: 3
+tags: []
+user_id: InfoBay

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/InfoBay/Desktop/MLflow/mlruns/626301404900900128/772f705007da49e1a76f72551aaec65c/artifacts
+end_time: 1731844810974
+entry_point_name: ''
+experiment_id: '626301404900900128'
+lifecycle_stage: active
+run_id: 772f705007da49e1a76f72551aaec65c
+run_name: smiling-quail-39
+run_uuid: 772f705007da49e1a76f72551aaec65c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731844787446
+status: 3
+tags: []
+user_id: InfoBay

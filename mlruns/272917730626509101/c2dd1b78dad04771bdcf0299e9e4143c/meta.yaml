@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/InfoBay/Desktop/MLflow/mlruns/272917730626509101/c2dd1b78dad04771bdcf0299e9e4143c/artifacts
+end_time: 1731844992868
+entry_point_name: ''
+experiment_id: '272917730626509101'
+lifecycle_stage: active
+run_id: c2dd1b78dad04771bdcf0299e9e4143c
+run_name: invincible-rat-127
+run_uuid: c2dd1b78dad04771bdcf0299e9e4143c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731844984999
+status: 3
+tags: []
+user_id: InfoBay

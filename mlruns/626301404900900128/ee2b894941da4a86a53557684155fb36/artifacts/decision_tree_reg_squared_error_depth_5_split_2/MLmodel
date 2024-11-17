@@ -1,0 +1,20 @@
+artifact_path: decision_tree_reg_squared_error_depth_5_split_2
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.17.2
+model_size_bytes: 5553
+model_uuid: 5cb122ec148042fb8bba7898bd005811
+run_id: ee2b894941da4a86a53557684155fb36
+utc_time_created: '2024-11-17 11:59:27.989585'

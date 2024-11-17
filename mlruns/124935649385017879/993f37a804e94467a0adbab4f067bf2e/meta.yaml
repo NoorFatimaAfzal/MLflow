@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/InfoBay/Desktop/MLflow/mlruns/124935649385017879/993f37a804e94467a0adbab4f067bf2e/artifacts
+end_time: 1731844557118
+entry_point_name: ''
+experiment_id: '124935649385017879'
+lifecycle_stage: active
+run_id: 993f37a804e94467a0adbab4f067bf2e
+run_name: shivering-bat-987
+run_uuid: 993f37a804e94467a0adbab4f067bf2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731844550007
+status: 3
+tags: []
+user_id: InfoBay

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/InfoBay/Desktop/MLflow/mlruns/272917730626509101/e8f5eda08c5c403d971ee38046081a61/artifacts
+end_time: 1731844984977
+entry_point_name: ''
+experiment_id: '272917730626509101'
+lifecycle_stage: active
+run_id: e8f5eda08c5c403d971ee38046081a61
+run_name: charming-wren-928
+run_uuid: e8f5eda08c5c403d971ee38046081a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731844972633
+status: 3
+tags: []
+user_id: InfoBay

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/InfoBay/Desktop/MLflow/mlruns/499591525139168610/d959710c2c534b1fae8949854075a721/artifacts
+end_time: 1731844950054
+entry_point_name: ''
+experiment_id: '499591525139168610'
+lifecycle_stage: active
+run_id: d959710c2c534b1fae8949854075a721
+run_name: dashing-worm-455
+run_uuid: d959710c2c534b1fae8949854075a721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731844942055
+status: 3
+tags: []
+user_id: InfoBay

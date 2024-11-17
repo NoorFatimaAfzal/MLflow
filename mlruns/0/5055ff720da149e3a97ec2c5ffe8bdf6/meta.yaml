@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5055ff720da149e3a97ec2c5ffe8bdf6/artifacts
+deleted_time: 1731844038649
+end_time: 1731833971618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5055ff720da149e3a97ec2c5ffe8bdf6
+run_name: auspicious-cod-458
+run_uuid: 5055ff720da149e3a97ec2c5ffe8bdf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731833950963
+status: 4
+tags: []
+user_id: InfoBay

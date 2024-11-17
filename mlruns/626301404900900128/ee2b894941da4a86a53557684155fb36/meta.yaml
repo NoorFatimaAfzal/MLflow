@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/InfoBay/Desktop/MLflow/mlruns/626301404900900128/ee2b894941da4a86a53557684155fb36/artifacts
+end_time: 1731844780170
+entry_point_name: ''
+experiment_id: '626301404900900128'
+lifecycle_stage: active
+run_id: ee2b894941da4a86a53557684155fb36
+run_name: sassy-chimp-181
+run_uuid: ee2b894941da4a86a53557684155fb36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731844767735
+status: 3
+tags: []
+user_id: InfoBay

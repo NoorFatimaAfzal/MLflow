@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/InfoBay/Desktop/MLflow/mlruns/124935649385017879/44212d3b22384381b2a16b88f05635ec/artifacts
+end_time: 1731844542492
+entry_point_name: ''
+experiment_id: '124935649385017879'
+lifecycle_stage: active
+run_id: 44212d3b22384381b2a16b88f05635ec
+run_name: traveling-wren-641
+run_uuid: 44212d3b22384381b2a16b88f05635ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731844520212
+status: 3
+tags: []
+user_id: InfoBay
