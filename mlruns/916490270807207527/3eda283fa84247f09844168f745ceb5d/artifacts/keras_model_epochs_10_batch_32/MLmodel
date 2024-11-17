@@ -1,0 +1,18 @@
+artifact_path: keras_model_epochs_10_batch_32
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.5.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.11.7
+mlflow_version: 2.17.2
+model_size_bytes: 53068
+model_uuid: 604c4acdbd1f40a9b1c72043f81b87c4
+run_id: 3eda283fa84247f09844168f745ceb5d
+utc_time_created: '2024-11-17 15:06:34.647429'
